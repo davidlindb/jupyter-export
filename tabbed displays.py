@@ -1,5 +1,5 @@
 # Databricks notebook source
-# MAGIC %sql select 1
+# MAGIC %sql select 2
 
 # COMMAND ----------
 
